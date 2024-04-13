@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://harshsingh1605.github.io/Portfolio/](https://harshsingh1605.github.io/Portfolio/)
 
 - 💬 Ask me about **Programming**
 
