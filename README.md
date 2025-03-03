@@ -50,7 +50,4 @@
 
 ---
 
-### 🎵 Vibing To:
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
-
 🔥 **Let’s build something amazing together!** 🚀
